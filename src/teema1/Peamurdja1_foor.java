@@ -46,7 +46,7 @@ public class Peamurdja1_foor extends Application {
             foor.vahetaKollast();
             foor.paus(1.5);
             foor.vahetaKollast();
-            
+
         count = count + 1;
     }
 
